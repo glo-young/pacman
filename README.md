@@ -10,7 +10,7 @@ Learn how to control the [*Document Object Model or DOM*](https://developer.mozi
 
 Starter codes were provided by the instructor.
 
-##### UPDATES
+#### UPDATES
 
 ***
 
