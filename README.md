@@ -1,3 +1,5 @@
+<div align="center">
+     
 # pacman
 
 An assignment from the MIT xPRO Program: Full Stack Development with MERN
@@ -21,3 +23,5 @@ As the course progresses I hope to continue to build on this assignment. Stay Tu
 ***
 
 Licensing provided by MIT
+  
+  </div>
